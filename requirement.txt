@@ -1,0 +1,8 @@
+aiogram                   3.17.0
+fastapi                   0.115.8
+lightgbm                  4.5.0
+numpy                     1.26.4
+pandas                    2.2.3
+python                    3.10.16
+scikit-learn              1.6.1
+seaborn                   0.13.2
